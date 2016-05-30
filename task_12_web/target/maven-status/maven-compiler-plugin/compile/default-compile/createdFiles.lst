@@ -1,0 +1,12 @@
+hello\ClientRepository.class
+hello\WebServiceConfig.class
+io\spring\guides\gs_producing_web_service\ObjectFactory.class
+hello\ClientRepository$1.class
+io\spring\guides\gs_producing_web_service\GetClientResponse.class
+io\spring\guides\gs_producing_web_service\Place.class
+io\spring\guides\gs_producing_web_service\Client.class
+hello\ClientEnd.class
+io\spring\guides\gs_producing_web_service\GetClientRequest.class
+io\spring\guides\gs_producing_web_service\package-info.class
+hello\Application.class
+io\spring\guides\gs_producing_web_service\GetPlaceResponse.class

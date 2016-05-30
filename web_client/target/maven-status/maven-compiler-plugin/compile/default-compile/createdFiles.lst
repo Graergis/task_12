@@ -1,0 +1,14 @@
+generate\ObjectFactory.class
+client\wsdl\Client.class
+client\wsdl\GetClientRequest.class
+client\wsdl\ObjectFactory.class
+generate\GetClientRequest.class
+client\wsdl\Place.class
+generate\GetClientResponse.class
+generate\Place.class
+client\wsdl\GetPlaceResponse.class
+generate\GetPlaceResponse.class
+generate\package-info.class
+client\wsdl\GetClientResponse.class
+generate\Client.class
+client\wsdl\package-info.class
